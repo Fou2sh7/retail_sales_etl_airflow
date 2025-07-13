@@ -1,0 +1,2 @@
+{"timestamp":"2025-07-12T23:54:16.236676","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/standard/example_short_circuit_decorator.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-12T23:59:01.253449","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/standard/example_short_circuit_decorator.py","logger":"airflow.models.dagbag.DagBag"}
